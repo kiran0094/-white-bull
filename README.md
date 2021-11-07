@@ -1,6 +1,8 @@
 # -white-bull
 # 11/7/2021
 
+#edited by kumm
+
 Trying out github for the first time
 
 Repository - we can add files in the repository
