@@ -8,5 +8,6 @@ Commit - it's like saving file, we can change files in it
          it has an special hash code which indicates the specific history of file
 
 
+Fuck you kumm 💀
 
 i am old coder friend of god
