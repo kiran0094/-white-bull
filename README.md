@@ -12,3 +12,4 @@ Commit - it's like saving file, we can change files in it
 
 
 i am old coder friend of god
+i am doing my frist project
